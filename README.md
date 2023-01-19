@@ -88,7 +88,7 @@ Les données collectées sont stockées dans le fichier **annonces.json**. Pour 
 ```bash
 python -m final solution annonces.json
 ```
-Avec pour résultat, si on choisit la recherche  : 
+Avec pour résultat, si on choisit la recherche  :  
   destination : Toulouse, France  
   date arrivée : 2023/02/10  
   date départ : 2023/02/12  
