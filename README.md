@@ -12,7 +12,7 @@ Pour résoudre cette problématique économique, nous avons créé plusieurs lib
 ## <span style="color:#b7d8e6">Librairie **lib_choix_utilisateur.py**</span>
 Permet d'initialiser les données nécessaires pour lancer la recherche : la destination choisie par l'utilisateur, les dates d'arrivée et de départ choisies également par l'utilisateur, ainsi que le nombre de voyageurs (nombre d'adulte(s) et nombre d'enfant(s)). 
 
-## <span style="color:#b7d8e6">Librarie **lib_annonce.py**</span>
+## <span style="color:#b7d8e6">Librairie **lib_annonce.py**</span>
 Permet de stocker les données d'une annonce dans un objet de type classe et de générer un dictionnaire par la suite pour chaque annonce.
 
 ## <span style="color:#b7d8e6">Librairie **lib_scraping.py**</span>
